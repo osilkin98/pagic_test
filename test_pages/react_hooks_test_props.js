@@ -33,11 +33,11 @@ export default {
             footer: React.createElement("footer", null,
                 "Powered by\u00A0",
                 React.createElement("a", { href: "https://github.com/xcatliu/pagic", target: "_blank" }, "Pagic")),
-            github: 'https://github.com/xcatliu/pagic_template_docs',
+            github: 'https://github.com/osilkin98/pagic_test',
             include: undefined,
             nav: [
                 {
-                    link: '/pagic_template_docs/introduction/index.html',
+                    link: '/pagic_test/introduction/index.html',
                     text: 'Docs'
                 },
                 {
@@ -46,7 +46,7 @@ export default {
                 },
                 {
                     align: 'right',
-                    link: '/pagic_template_docs/about/index.html',
+                    link: '/pagic_test/about/index.html',
                     text: 'About'
                 }
             ],

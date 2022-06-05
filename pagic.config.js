@@ -15,7 +15,7 @@ export default {
     nav: [
         {
             text: 'Docs',
-            link: '/pagic_template_docs/introduction/index.html',
+            link: '/pagic_test/introduction/index.html',
         },
         {
             text: 'Pagic',
@@ -23,11 +23,11 @@ export default {
         },
         {
             text: 'About',
-            link: '/pagic_template_docs/about/index.html',
+            link: '/pagic_test/about/index.html',
             align: 'right',
         },
     ],
-    github: 'https://github.com/xcatliu/pagic_template_docs',
+    github: 'https://github.com/osilkin98/pagic_test',
     sidebar: {
         '/': [
             'introduction/README.md',
